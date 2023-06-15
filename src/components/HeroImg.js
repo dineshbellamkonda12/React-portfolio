@@ -15,8 +15,8 @@ export const HeroImg = () => {
             <p>Sai Dinesh Bellamkonda</p>
             <h1>Front End Developer</h1>
             <div>
-            <Link to="/project" className="btn">Projects</Link>
-            <Link to="/project" className="btn btn-light">Contact</Link>
+            <Link to="/Project" className="btn">Projects</Link>
+            <Link to="/Contact" className="btn btn-light">Contact</Link>
         </div>
         </div>
     </div>
