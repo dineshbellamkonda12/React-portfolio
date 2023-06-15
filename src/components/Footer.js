@@ -1,4 +1,3 @@
-import backimg from '../assets/backimg.png'
 import "./FooterStyles.css";
 import { Link } from 'react-router-dom';
 
