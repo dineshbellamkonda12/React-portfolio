@@ -36,15 +36,15 @@ const AboutContent = () => {
                         <th>Additional Skills</th>
                     </tr>
                     <tr>
-                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES 6), TypeScript, JQuery, React JS</td>
-                        <td>PHP, MySQL</td>
+                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES 6), jQuery, React JS</td>
+                        <td>Python, Django, PostgreSQL, and MySQL</td>
                         <td>WordPress</td>
                         <td>Agile Scrum</td>
                         <td>Jira Service Desk, HP Service Manager</td>
                         <td>Git Hub, Bit Bucket</td>
                         <td>SQL Developer, Visual Studio Code, Atom, Sublime Text, Eclipse, PyCharm</td>
                         <td>Windows, Linux, Unix</td>
-                        <td>MuleSoft Anypoint Studio, MuleSoft Anypoint platform, MuleSoft Cloudhub, JSON, XML and REST API´s</td>
+                        <td>MuleSoft Anypoint Studio, MuleSoft Anypoint platform, MuleSoft Cloudhub, JSON, XML and REST APIs</td>
                     </tr>
                 </table>
             </div>
@@ -60,24 +60,29 @@ const AboutContent = () => {
                     <tr>
                         <td>
                             <ul>
-                                <li>Developed and maintained WordPress websites, utilizing HTML5, CSS3, and JavaScript (TypeScript) to create visually appealing and responsive user interfaces.</li><br />
+                                <li>Applied a deep understanding of HTML5, CSS3, and JavaScript (ES 6) to create and maintain modern, responsive websites.</li><br />
+                                <li>Designed user experience (UX) components using Figma, a powerful design tool.</li><br />
                                 <li>Developed REST APIs using MuleSoft and Anypoint Studio, and successfully integrated them with frontend applications.</li><br />
-                                <li>Implemented rigorous unit testing practices as a front-end developer to ensure the reliability and robustness of web applications.</li><br />
-                                <li>Utilized React JS to build interactive and reusable components, improving frontend functionality.</li><br />
+                                <li>Implemented thorough unit testing practices as a front-end developer to ensure the reliability and robustness of web applications.</li><br />
+                                <li>Utilised React JS to build interactive and reusable components, improving front-end functionality.</li><br />
+                                <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes.</li><br />
                                 <li>Worked closely with cross-functional teams, including designers and back-end developers, to ensure a smooth integration of design and functionality.</li><br />
-                                <li>Effectively communicated with clients to understand project requirements and deliver high-quality solutions within deadlines.</li><br />
+                                <li>Communicated with clients to grasp project requirements and deliver high-quality solutions on time.</li><br />
                             </ul>
                         </td>
 
                         <td>
                             <ul>
-                                <li>Developed responsive web pages using HTML5, CSS3, and Bootstrap, ensuring cross-browser compatibility and accessibility.</li> <br />
-                                <li>Utilized JavaScript ES6 and React JS to build interactive components and implement dynamic functionality.</li><br />
-                                <li>Integrated front-end interfaces with back-end APIs using PHP, ensuring seamless data flow and user experience.</li><br />
-                                <li>Utilized React JS to build interactive and reusable components, improving frontend functionality.</li><br />
-                                <li>Conducted code reviews and performed debugging and optimization for improved performance.</li><br />
-                                <li>Implemented version control and collaborated with the team using Git and GitHub.</li><br />
-                                <li>Actively participated in Agile/Scrum meetings, contributing to sprint planning and delivering features within deadlines.</li>
+                                <li>Expertly Utilised HTML5, CSS3, and JavaScript to develop and maintain modern, responsive websites.</li> <br />
+                                <li>Implemented front-end frameworks such as React JS, utilizing reusable components to enhance user interfaces and improve development efficiency.</li><br />
+                                <li>Implemented thorough unit testing practices to ensure that web applications were reliable and robust.</li><br />
+                                <li>Successfully integrated multiple payment gateways, including Stripe, PayPal, Authorize.net, and Split it, into front-end web applications, enabling secure and convenient payment processing.</li><br />
+                                <li>Utilised Scikit-learn package in Django framework to predict data for front-end applications and integrated the predicted results seamlessly into the front-end applications, providing valuable insights to end-users.</li><br />
+                                <li>Utilised JavaScript libraries and frameworks, including jQuery, to create interactive and dynamic web elements.</li><br />
+                                <li>Developed interactive web applications with dynamic content and database functionality by integrating Django and MySQL technologies.</li><br />
+                                <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes.</li><br />
+                                <li>Collaborated with cross-functional teams to gather project requirements and provide accurate estimates for front-end development tasks.</li><br />
+                                <li>Actively participated in Agile/Scrum meetings, contributing to sprint planning, and delivering features within deadlines.</li><br />
                             </ul>
                         </td>
                     </tr>
@@ -103,8 +108,8 @@ const AboutContent = () => {
             <div className='pw'>
                 <table>
                     <tr>
-                        <th>Clickappporter</th>
-                        <th>PROOF CENTRAL</th>
+                        <th>Clickappporter (Business Domain: Retail)</th>
+                        <th>PROOF CENTRAL (Business Domain: Publishing) </th>
                     </tr>
 
                     <tr>
