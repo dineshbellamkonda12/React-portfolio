@@ -55,7 +55,7 @@ const AboutContent = () => {
                 <table>
                     <tr>
                         <th>FRONT END WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) Sep 2021 to Sep 2022</th>
-                        <th>FRONT END WEB DEVELOPER | Mphasis (Chennai, India) Aug 2018 to Jan 2021</th>
+                        <th>FULL STACK WEB DEVELOPER | Mphasis (Chennai, India) Aug 2018 to Jan 2021</th>
                     </tr>
                     <tr>
                         <td>
