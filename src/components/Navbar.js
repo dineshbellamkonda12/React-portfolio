@@ -22,7 +22,7 @@ window.addEventListener("scroll", changeColor);
   return (
     <div className={color? "header header-bg": "header"}>
         <Link to="/">
-            <h1>Portfolio</h1>
+            <h1>Sai Dinesh Bellamkonda</h1>
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
