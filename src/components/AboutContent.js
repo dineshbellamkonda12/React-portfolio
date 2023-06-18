@@ -27,7 +27,7 @@ const AboutContent = () => {
                     <tr>
                         <th>Frontend</th>
                         <th>Backend</th>
-                        <th>Content Management System</th>
+                        <th>Unit Testing</th>
                         <th>Software Methadology</th>
                         <th>Project Management</th>
                         <th>Version Control</th>
@@ -38,7 +38,7 @@ const AboutContent = () => {
                     <tr>
                         <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES 6), jQuery, React JS</td>
                         <td>Python, Django, PostgreSQL, and MySQL</td>
-                        <td>WordPress</td>
+                        <td>Jest</td>
                         <td>Agile Scrum</td>
                         <td>Jira Service Desk, HP Service Manager</td>
                         <td>Git Hub, Bit Bucket</td>
