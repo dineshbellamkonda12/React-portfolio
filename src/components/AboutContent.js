@@ -76,7 +76,6 @@ const AboutContent = () => {
                                 <li>Expertly Utilised HTML5, CSS3, and JavaScript to develop and maintain modern, responsive websites.</li> <br />
                                 <li>Implemented front-end frameworks such as React JS, utilizing reusable components to enhance user interfaces and improve development efficiency.</li><br />
                                 <li>Implemented thorough unit testing practices to ensure that web applications were reliable and robust.</li><br />
-                                <li>Successfully integrated multiple payment gateways, including Stripe, PayPal, Authorize.net, and Split it, into front-end web applications, enabling secure and convenient payment processing.</li><br />
                                 <li>Utilised Scikit-learn package in Django framework to predict data for front-end applications and integrated the predicted results seamlessly into the front-end applications, providing valuable insights to end-users.</li><br />
                                 <li>Utilised JavaScript libraries and frameworks, including jQuery, to create interactive and dynamic web elements.</li><br />
                                 <li>Developed interactive web applications with dynamic content and database functionality by integrating Django and MySQL technologies.</li><br />
