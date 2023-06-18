@@ -12,7 +12,7 @@ const Formc = () => {
                 <th>
                     <FaHome size={20} style={{color:"#fff", marginRight: "2rem" }} />
                   <div>
-                      <p>110A Burges Road, London</p>
+                      <p>110A Burges Road, London, E62BH</p>
                       <p>United Kingdom</p>
                   </div>
                 </th>
