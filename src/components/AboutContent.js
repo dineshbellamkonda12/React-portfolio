@@ -55,7 +55,7 @@ const AboutContent = () => {
                 <table>
                     <tr>
                         <th>FRONT END WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) Sep 2021 to Sep 2022</th>
-                        <th>FRONT END WEB DEVELOPER | Mphasis, India Aug 2018 to Jan 2021</th>
+                        <th>FRONT END WEB DEVELOPER | Mphasis (Chennai, India) Aug 2018 to Jan 2021</th>
                     </tr>
                     <tr>
                         <td>
@@ -108,8 +108,8 @@ const AboutContent = () => {
             <div className='pw'>
                 <table>
                     <tr>
-                        <th>Clickappporter (Business Domain: Retail)</th>
-                        <th>PROOF CENTRAL (Business Domain: Publishing) </th>
+                        <th>Mphasis: Clickappporter (Business Domain: Retail)</th>
+                        <th>CloudFirst Technologies: PROOF CENTRAL (Business Domain: Publishing) </th>
                     </tr>
 
                     <tr>
@@ -133,11 +133,26 @@ const AboutContent = () => {
                     </tr>
                 </table>
             </div>
+
+            <br /> <br />
+            <br /> <br />
+            <h1>Awards</h1> <br /> <br />
+
+            <div className='ce'>
+                <table>
+                    <tr>
+                        <th>The Summit Individual Award (Issued by Mphasis) </th>
+                    </tr>
+
+                    <tr>
+                        <td>Recognized for outstanding performance as a full stack web developer, working independently on diverse projects.</td>
+                    </tr>
+                </table>
+            </div>
+            <br /> <br /> <br /> <br />
            
         </div>
-        <br /> <br /> <br /> <br />
-
-        
+       
 
         <div>
             <Link to="/contact">
