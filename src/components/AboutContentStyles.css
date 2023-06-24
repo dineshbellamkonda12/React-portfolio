@@ -31,6 +31,7 @@ table, th, td{
     border: 1px solid white;
     align-items: center;
     padding: 20px;
+    font-size: large;
 }
 
 table{

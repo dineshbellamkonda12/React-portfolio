@@ -118,7 +118,7 @@ const AboutContent = () => {
             <div className='ed'>
                 <table>
                     <tr>
-                        <th>MSc in Data Science & Analytics (Hatfield, England) Feb 2021 to Feb 2023</th>
+                        <td>MSc in Data Science & Analytics (Hatfield, England) Feb 2021 to Feb 2023</td>
                     </tr>
                 </table>
             </div>
@@ -170,6 +170,19 @@ const AboutContent = () => {
 
                     <tr>
                         <td>Recognized for outstanding performance as a full stack web developer, working independently on diverse projects.</td>
+                    </tr>
+                </table>
+            </div>
+            <br /> <br /> <br /> <br />
+
+            <div className='ab'>
+                <table>
+                    <tr>
+                        <th>References</th>
+                    </tr>
+
+                    <tr>
+                        <td>Available Upon Request</td>
                     </tr>
                 </table>
             </div>
