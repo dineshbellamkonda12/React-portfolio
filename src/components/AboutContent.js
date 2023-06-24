@@ -27,7 +27,8 @@ const AboutContent = () => {
                     <tr>
                         <th>Frontend</th>
                         <th>Backend</th>
-                        <th>Unit Testing</th>
+                        <th>UI/UX Design</th>
+                        <th>Content Management System</th>
                         <th>Software Methadology</th>
                         <th>Project Management</th>
                         <th>Version Control</th>
@@ -36,15 +37,16 @@ const AboutContent = () => {
                         <th>Additional Skills</th>
                     </tr>
                     <tr>
-                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES 6), jQuery, React JS</td>
-                        <td>Python, Django, PostgreSQL, and MySQL</td>
-                        <td>Jest</td>
-                        <td>Agile Scrum</td>
+                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES6), TypeScript, jQuery, React JS</td>
+                        <td>Python, Django, Django migrations, Django REST Framework and MySQL</td>
+                        <td>Figma</td>
+                        <td>Wordpress</td>
+                        <td>Agile (Scrum)</td>
                         <td>Jira Service Desk, HP Service Manager</td>
                         <td>Git Hub, Bit Bucket</td>
                         <td>SQL Developer, Visual Studio Code, Atom, Sublime Text, Eclipse, PyCharm</td>
                         <td>Windows, Linux, Unix</td>
-                        <td>MuleSoft Anypoint Studio, MuleSoft Anypoint platform, MuleSoft Cloudhub, JSON, XML and REST APIs</td>
+                        <td>MuleSoft Anypoint Studio, MuleSoft Anypoint platform, MuleSoft Cloudhub, JSON and REST APIs</td>
                     </tr>
                 </table>
             </div>
@@ -61,27 +63,48 @@ const AboutContent = () => {
                         <td>
                             <ul>
                                 <li>Applied a deep understanding of HTML5, CSS3, and JavaScript (ES 6) to create and maintain modern, responsive websites.</li><br />
+
                                 <li>Designed user experience (UX) components using Figma, a powerful design tool.</li><br />
+
                                 <li>Developed REST APIs using MuleSoft and Anypoint Studio, and successfully integrated them with frontend applications.</li><br />
+
+                                <li>Successfully deployed a web application to Azure DevOps, utilising CI/CD pipelines integrated with GitHub</li><br />
+
                                 <li>Implemented thorough unit testing practices as a front-end developer to ensure the reliability and robustness of web applications.</li><br />
+
                                 <li>Utilised React JS to build interactive and reusable components, improving front-end functionality.</li><br />
+
                                 <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes.</li><br />
-                                <li>Worked closely with cross-functional teams, including designers and back-end developers, to ensure a smooth integration of design and functionality.</li><br />
-                                <li>Communicated with clients to grasp project requirements and deliver high-quality solutions on time.</li><br />
+
+                                <li>Worked closely with cross-functional teams, including designers and back-end developers, to ensure a smooth integration of design and functionality</li><br />
+
+                                <li>Actively participated in Agile/Scrum meetings, contributing to sprint planning, and delivering features within deadlines</li><br />
+
+                                <li>Communicated with clients to grasp project requirements and deliver high-quality solutions on time.</li>
                             </ul>
                         </td>
 
                         <td>
                             <ul>
-                                <li>Expertly Utilised HTML5, CSS3, and JavaScript to develop and maintain modern, responsive websites.</li> <br />
-                                <li>Implemented front-end frameworks such as React JS, utilizing reusable components to enhance user interfaces and improve development efficiency.</li><br />
-                                <li>Implemented thorough unit testing practices to ensure that web applications were reliable and robust.</li><br />
-                                <li>Utilised Scikit-learn package in Django framework to predict data for front-end applications and integrated the predicted results seamlessly into the front-end applications, providing valuable insights to end-users.</li><br />
-                                <li>Utilised JavaScript libraries and frameworks, including jQuery, to create interactive and dynamic web elements.</li><br />
-                                <li>Developed interactive web applications with dynamic content and database functionality by integrating Django and MySQL technologies.</li><br />
-                                <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes.</li><br />
-                                <li>Collaborated with cross-functional teams to gather project requirements and provide accurate estimates for front-end development tasks.</li><br />
-                                <li>Actively participated in Agile/Scrum meetings, contributing to sprint planning, and delivering features within deadlines.</li><br />
+                                <li>Expertly Utilised HTML5, CSS3, and JavaScript (ES6), TypeScript and React JS to develop and maintain modern, responsive websites</li> <br />
+
+                                <li>Integrated Python, Django, and MySQL to create interactive web pages featuring dynamic content and database functionality</li><br />
+
+                                <li>Successfully managed database migrations in Django projects, ensuring smooth transitions and data integrity during development and deployment stages</li><br />
+
+                                <li>Successfully deployed a web application to Amazon EC2, utilising CI/CD pipelines integrated with GitHub</li><br />
+
+                                <li>Developed RESTful APIs using Django REST Framework to enable seamless communication between the frontend and backend systems</li><br />
+
+                                <li>Utilised Scikit-learn package in Django framework to predict data for front-end applications </li><br />
+
+                                <li>Utilised JavaScript libraries and frameworks, including jQuery, to create interactive and dynamic web elements</li><br />
+
+                                <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes</li><br />
+
+                                <li>Collaborated with cross-functional teams to gather project requirements and provide accurate estimates for front-end development tasks</li><br />
+
+                                <li>Actively participated in Agile/Scrum meetings, contributing to sprint planning, and delivering features within deadlines</li><br />
                             </ul>
                         </td>
                     </tr>
@@ -128,7 +151,9 @@ const AboutContent = () => {
             <div className='ce'>
                 <table>
                     <tr>
-                        <th>MuleSoft Certified Developer – Level 1 (Mule 4)</th>
+                        <th>Building React and Django Apps <a style={{color: 'yellow'}} href='https://www.linkedin.com/learning/certificates/da6b3b9c101e54a0085f968c608a1ea9e7e43e8993448efc3fd7b4158e0862e9' target='_blank' rel="noreferrer" >  (Credential)</a></th>
+                        <th>React JS Essential Training <a style={{color: 'yellow'}} href='https://www.linkedin.com/learning/certificates/2e7cbc6dd4f8ce3004a88d3932b64afdc60739b6bcfa3a80c2c0978ae8cdca8e' target='_blank' rel="noreferrer" > (Credential)</a></th>
+                        <th>MuleSoft Certified Developer: Level 1 (Mule 4)</th>
                     </tr>
                 </table>
             </div>
