@@ -7,28 +7,28 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "CloudFirst Technologies",
-        text: "The application was developed utilizing HTML 5, CSS 3 and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
+        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
         view: "https://cloudfirsttechnologies.com/",
     },
 
     {
         imgsrc: pro2,
         title: "AA Cloud Solutions",
-        text: "The application was developed utilizing HTML 5, CSS 3 and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
+        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
         view: "https://aacloudsolutions.co.uk/",
     },
 
     {
         imgsrc: pro3,
         title: "Paragon Care and Locum Partnetship",
-        text: "The application was developed utilizing HTML 5, CSS 3 and WordPress. Used Formintor Plugin for Forms",
+        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Used Formintor Plugin for Forms",
         view: "https://www.pclp.org.uk/",
     },
 
     {
         imgsrc: pro4,
         title: "ConstructPlus",
-        text: "The application was developed utilizing HTML 5, CSS 3 and WordPress. Used Formintor Plugin for Forms",
+        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Used Formintor Plugin for Forms",
         view: "https://constructplus.org.uk/",
     }
 
