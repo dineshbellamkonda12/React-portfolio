@@ -27,7 +27,6 @@ const AboutContent = () => {
                     <tr>
                         <th>Frontend</th>
                         <th>Backend</th>
-                        <th>UI/UX Design</th>
                         <th>Content Management System</th>
                         <th>Software Methadology</th>
                         <th>Project Management</th>
@@ -37,9 +36,8 @@ const AboutContent = () => {
                         <th>Additional Skills</th>
                     </tr>
                     <tr>
-                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES6), TypeScript, jQuery, React JS</td>
+                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES6), TypeScript, jQuery, React JS and Redux</td>
                         <td>Python, Django, Django migrations, Django REST Framework and MySQL</td>
-                        <td>Figma</td>
                         <td>Wordpress</td>
                         <td>Agile (Scrum)</td>
                         <td>Jira Service Desk, HP Service Manager</td>
@@ -64,15 +62,15 @@ const AboutContent = () => {
                             <ul>
                                 <li>Applied a deep understanding of HTML5, CSS3, and JavaScript (ES 6) to create and maintain modern, responsive websites.</li><br />
 
-                                <li>Designed user experience (UX) components using Figma, a powerful design tool.</li><br />
+                                <li>Utilised React to build interactive and reusable components, improving front-end functionality.</li><br />
 
-                                <li>Developed REST APIs using MuleSoft and Anypoint Studio, and successfully integrated them with frontend applications.</li><br />
+                                <li>Developed REST APIs using MuleSoft and Django REST Framework, and successfully integrated them with frontend applications.</li><br />
 
-                                <li>Successfully deployed a web application to Azure DevOps, utilising CI/CD pipelines integrated with GitHub</li><br />
+                                <li>Successfully managed database migrations in Django projects, ensuring smooth transitions and data integrity during development and deployment stages.</li><br />
 
-                                <li>Implemented thorough unit testing practices as a front-end developer to ensure the reliability and robustness of web applications.</li><br />
+                                <li>Successfully deployed a web application to Azure DevOps, utilising CI/CD pipelines integrated with GitHub.</li><br />
 
-                                <li>Utilised React JS to build interactive and reusable components, improving front-end functionality.</li><br />
+                                <li>Implemented thorough unit testing practices to ensure the reliability and robustness of web applications.</li><br />
 
                                 <li>Utilised version control systems, such as Git, for efficient collaboration, code management, and tracking changes.</li><br />
 
