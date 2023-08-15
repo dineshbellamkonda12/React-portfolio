@@ -32,7 +32,7 @@ window.addEventListener("scroll", changeColor);
                 <Link to="/Project">Projects</Link>
             </li>
             <li> 
-                <Link to="/About">Resume</Link>
+                <Link to="/About">About Me</Link>
             </li>
             <li> 
                 <Link to="/Contact">Contact</Link>
