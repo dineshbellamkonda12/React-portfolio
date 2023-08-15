@@ -27,6 +27,7 @@ const AboutContent = () => {
                     <tr>
                         <th>Frontend</th>
                         <th>Backend</th>
+                        <th>Cloud Environment</th>
                         <th>Content Management System</th>
                         <th>Software Methadology</th>
                         <th>Project Management</th>
@@ -38,6 +39,7 @@ const AboutContent = () => {
                     <tr>
                         <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES6), TypeScript, jQuery, React JS and Redux</td>
                         <td>Python, Django, Django migrations, Django REST Framework and MySQL</td>
+                        <td>Azure Devops</td>
                         <td>Wordpress</td>
                         <td>Agile (Scrum)</td>
                         <td>Jira Service Desk, HP Service Manager</td>
@@ -54,7 +56,7 @@ const AboutContent = () => {
             <div className='ex'>
                 <table>
                     <tr>
-                        <th>FRONT END WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) Sep 2021 to Sep 2022</th>
+                        <th>FULL STACK WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) Sep 2021 to Sep 2022</th>
                         <th>FULL STACK WEB DEVELOPER | Mphasis (Chennai, India) Aug 2018 to Jan 2021</th>
                     </tr>
                     <tr>
