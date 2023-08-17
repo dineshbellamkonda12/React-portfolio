@@ -2,8 +2,24 @@ import pro1 from '../assets/project1.png';
 import pro2 from '../assets/project2.png';
 import pro3 from '../assets/project3.png';
 import pro4 from '../assets/project4.png';
+import pro5 from '../assets/clickapporter.png';
+import pro6 from '../assets/ProofCentral.png';
 
 const ProjectCardData = [
+    {
+        imgsrc: pro5,
+        title: "Clickappporter (Business Domain: Retail)",
+        text: "Clickappporter is a dynamic e-commerce application that revolutionizes access to Europe and the US´s largest catalogs. With Clickappporter, users gain the convenience of selecting from tens of millions of items, all of which can be conveniently delivered anywhere in Morocco.",
+        view: "https://www.clickapporter.com/",
+    },
+
+    {
+        imgsrc: pro6,
+        title: "PROOF CENTRAL (Business Domain: Publishing)",
+        text: "Utilizing the Proof Central online interface tools, You can efficiently apply corrections, comments, and change requests to proofs, and seamlessly submit them for direct correction.",
+        view: "https://www.elsevier.com/authors/tools-and-resources/proof-central",
+    },
+
     {
         imgsrc: pro1,
         title: "CloudFirst Technologies",

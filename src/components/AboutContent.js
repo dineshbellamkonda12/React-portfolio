@@ -130,8 +130,8 @@ const AboutContent = () => {
             <div className='pw'>
                 <table>
                     <tr>
-                        <th>Mphasis: Clickappporter (Business Domain: Retail)</th>
-                        <th>CloudFirst Technologies: PROOF CENTRAL (Business Domain: Publishing) </th>
+                        <th>CloudFirst Technologies: Clickappporter (Business Domain: Retail) </th>
+                        <th>Mphasis: PROOF CENTRAL (Business Domain: Publishing) </th>
                     </tr>
 
                     <tr>
