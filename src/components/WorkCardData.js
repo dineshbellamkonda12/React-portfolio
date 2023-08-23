@@ -3,6 +3,7 @@ import pro2 from '../assets/project2.png';
 import pro5 from '../assets/DataFilter.png';
 import pro6 from '../assets/vertumotors.png';
 import pro7 from '../assets/reactportfolio.png';
+import pro8 from '../assets/ObjectDetection.png';
 
 const ProjectCardData = [
     {
@@ -24,6 +25,13 @@ const ProjectCardData = [
         title: "My Portfolio",
         text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Azure Devops utilizing CI/CD pipelines",
         view: "https://github.com/dineshbellamkonda12/React-portfolio.git",
+    },
+
+    {
+        imgsrc: pro8,
+        title: "Object Detection",
+        text: "Object Detection Application is a real-time object detection system in computer vision. It's a popular deep learning application that can identify and locate multiple objects in an image or video frame with high accuracy and speed",
+        view: "https://dinesh127c@bitbucket.org/object-detection-using-yolo/object-detection-using-yolo.git",
     },
 
     {
