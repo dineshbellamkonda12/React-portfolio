@@ -31,7 +31,7 @@ const ProjectCardData = [
         imgsrc: pro8,
         title: "Object Detection",
         text: "Object Detection Application is a real-time object detection system in computer vision. It's a popular deep learning application that can identify and locate multiple objects in an image or video frame with high accuracy and speed",
-        view: "https://dinesh127c@bitbucket.org/object-detection-using-yolo/object-detection-using-yolo.git",
+        view: "https://github.com/dineshbellamkonda12/Object-Detection-App-Using-Yolo.git",
     },
 
     {
