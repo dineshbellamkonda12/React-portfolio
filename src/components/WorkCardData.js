@@ -1,23 +1,29 @@
 import pro1 from '../assets/project1.png';
 import pro2 from '../assets/project2.png';
-import pro3 from '../assets/project3.png';
-import pro4 from '../assets/project4.png';
-import pro5 from '../assets/clickapporter.png';
-import pro6 from '../assets/ProofCentral.png';
+import pro5 from '../assets/DataFilter.png';
+import pro6 from '../assets/vertumotors.png';
+import pro7 from '../assets/reactportfolio.png';
 
 const ProjectCardData = [
     {
         imgsrc: pro5,
-        title: "Clickappporter (Business Domain: Retail)",
-        text: "Clickappporter is a dynamic e-commerce application that revolutionizes access to Europe and the US´s largest catalogs. With Clickappporter, users gain the convenience of selecting from tens of millions of items, all of which can be conveniently delivered anywhere in Morocco.",
-        view: "https://www.clickapporter.com/",
+        title: "DataFilter",
+        text: "Data Filter is a web application that allows users to to be able to interact, extract and filter data from the table based on their condition. It is built using Python Django for the backend and HTML, CSS and Javascript for the frontend",
+        view: "https://github.com/dineshbellamkonda12/JLR-Coding-Challenge-Data-Viewer.git",
     },
 
     {
         imgsrc: pro6,
-        title: "PROOF CENTRAL (Business Domain: Publishing)",
-        text: "Utilizing the Proof Central online interface tools, You can efficiently apply corrections, comments, and change requests to proofs, and seamlessly submit them for direct correction.",
-        view: "https://www.elsevier.com/authors/tools-and-resources/proof-central",
+        title: "Cars Website (Clone of vertumotors.com)",
+        text: "This website is designed and developed using HTML 5, CSS 3 and Plain Vanilla JavaScript, Clone of vertumotors.com",
+        view: "https://github.com/dineshbellamkonda12/Vertu-Motors-Website.git",
+    },
+
+    {
+        imgsrc: pro7,
+        title: "My Portfolio",
+        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Azure Devops utilizing CI/CD pipelines",
+        view: "https://github.com/dineshbellamkonda12/React-portfolio.git",
     },
 
     {
@@ -33,20 +39,6 @@ const ProjectCardData = [
         text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
         view: "https://aacloudsolutions.co.uk/",
     },
-
-    {
-        imgsrc: pro3,
-        title: "Paragon Care and Locum Partnetship",
-        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Used Formintor Plugin for Forms",
-        view: "https://www.pclp.org.uk/",
-    },
-
-    {
-        imgsrc: pro4,
-        title: "ConstructPlus",
-        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Used Formintor Plugin for Forms",
-        view: "https://constructplus.org.uk/",
-    }
 
 ]
 
