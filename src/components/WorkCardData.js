@@ -16,7 +16,7 @@ const ProjectCardData = [
     {
         imgsrc: pro6,
         title: "Cars Website (Clone of vertumotors.com)",
-        text: "This website is designed and developed using HTML 5, CSS 3 and Plain Vanilla JavaScript, Clone of vertumotors.com",
+        text: "This website is designed and developed using HTML 5, CSS 3 and Plain Vanilla JavaScript, Clone of vertumotors.com. This website is compatible for both mobile and desktop.",
         view: "https://github.com/dineshbellamkonda12/Vertu-Motors-Website.git",
     },
 
