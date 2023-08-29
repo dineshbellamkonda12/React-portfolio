@@ -4,6 +4,7 @@ import pro5 from '../assets/DataFilter.png';
 import pro6 from '../assets/vertumotors.png';
 import pro7 from '../assets/reactportfolio.png';
 import pro8 from '../assets/ObjectDetection.png';
+import pro9 from '../assets/weatherapp.png'
 
 const ProjectCardData = [
     {
@@ -25,6 +26,13 @@ const ProjectCardData = [
         title: "My Portfolio",
         text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Azure Devops utilizing CI/CD pipelines",
         view: "https://github.com/dineshbellamkonda12/React-portfolio.git",
+    },
+
+    {
+        imgsrc: pro9,
+        title: "Weather App",
+        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Netlify using CI/CD Pipelines",
+        view: "https://github.com/dineshbellamkonda12/Weather-App.git",
     },
 
     {
