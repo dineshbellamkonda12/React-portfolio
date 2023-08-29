@@ -31,7 +31,7 @@ const ProjectCardData = [
     {
         imgsrc: pro9,
         title: "Weather App",
-        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Netlify using CI/CD Pipelines",
+        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. Used Open Weather API to get the live weather data. This Application was deployed in Netlify using CI/CD Pipelines",
         view: "https://github.com/dineshbellamkonda12/Weather-App.git",
     },
 
