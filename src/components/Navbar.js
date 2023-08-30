@@ -26,16 +26,16 @@ window.addEventListener("scroll", changeColor);
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
-                <Link to="/">Home</Link>
+                <Link to="/" className="hovercolor">Home</Link>
             </li>
             <li> 
-                <Link to="/Project">Projects</Link>
+                <Link to="/Project" className="hovercolor">Projects</Link>
             </li>
             <li> 
-                <Link to="/About">About Me</Link>
+                <Link to="/About" className="hovercolor">About Me</Link>
             </li>
             <li> 
-                <Link to="/Contact">Contact</Link>
+                <Link to="/Contact" className="hovercolor">Contact</Link>
             </li>
         
         </ul>

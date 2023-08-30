@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.hovercolor:hover{
+    color: red;
+}
+
 .nav-menu li{
     padding: 0 1rem;
 }
