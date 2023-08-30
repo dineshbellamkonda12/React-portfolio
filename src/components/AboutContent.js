@@ -56,7 +56,7 @@ const AboutContent = () => {
             <div className='ex'>
                 <table>
                     <tr>
-                        <th>FULL STACK WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) May 2022 to June 2023</th>
+                        <th>FULL STACK WEB DEVELOPER | CloudFirst Technologies (Chelmsford, England) May 2022 to Present</th>
                         <th>FULL STACK WEB DEVELOPER | Mphasis (Chennai, India) Aug 2018 to Jan 2021</th>
                     </tr>
                     <tr>
