@@ -1,4 +1,3 @@
-import pro1 from '../assets/project1.png';
 import pro2 from '../assets/project2.png';
 import pro5 from '../assets/DataFilter.png';
 import pro6 from '../assets/vertumotors.png';
@@ -40,13 +39,6 @@ const ProjectCardData = [
         title: "Object Detection",
         text: "Object Detection Application is a real-time object detection system in computer vision. It's a popular deep learning application that can identify and locate multiple objects in an image or video frame with high accuracy and speed",
         view: "https://github.com/dineshbellamkonda12/Object-Detection-App-Using-Yolo.git",
-    },
-
-    {
-        imgsrc: pro1,
-        title: "CloudFirst Technologies",
-        text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
-        view: "https://cloudfirsttechnologies.com/",
     },
 
     {
