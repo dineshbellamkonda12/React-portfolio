@@ -4,6 +4,7 @@ import pro6 from '../assets/vertumotors.png';
 import pro7 from '../assets/reactportfolio.png';
 import pro8 from '../assets/ObjectDetection.png';
 import pro9 from '../assets/weatherapp.png'
+import pro10 from '../assets/reacticongame.png'
 
 const ProjectCardData = [
     {
@@ -39,6 +40,13 @@ const ProjectCardData = [
         title: "Object Detection",
         text: "Object Detection Application is a real-time object detection system in computer vision. It's a popular deep learning application that can identify and locate multiple objects in an image or video frame with high accuracy and speed",
         view: "https://github.com/dineshbellamkonda12/Object-Detection-App-Using-Yolo.git",
+    },
+
+    {
+        imgsrc: pro10,
+        title: "Game Play with React Icon",
+        text: "'Game Play with React Icon' is an app where you can interact and play with react icon. This app was developed using HTML 5, CSS 3, JavaScript and React JS",
+        view: "https://github.com/dineshbellamkonda12/React-Icon-Mini-Project.git",
     },
 
     {
