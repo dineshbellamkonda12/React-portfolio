@@ -3,10 +3,19 @@ import pro5 from '../assets/DataFilter.png';
 import pro6 from '../assets/vertumotors.png';
 import pro7 from '../assets/reactportfolio.png';
 import pro8 from '../assets/ObjectDetection.png';
-import pro9 from '../assets/weatherapp.png'
-import pro10 from '../assets/reacticongame.png'
+import pro9 from '../assets/weatherapp.png';
+import pro10 from '../assets/reacticongame.png';
+import pro11 from '../assets/rainfallprediction.png';
+
 
 const ProjectCardData = [
+    {
+        imgsrc: pro11,
+        title: "Rainfall Data Prediction and Visualisation",
+        text: "Visualization App is a web application that allows users to to be able to interact and filter data from the chart based on their condition, This app also allows users to predict rainfall data based on the given time range. It is built using Python Django and Linear Regression Machine Learning Model for the backend and HTML, CSS and Javascript for the frontend",
+        view: "https://github.com/dineshbellamkonda12/Data-Visualization-Tool-Web-Based-.git",
+    },
+
     {
         imgsrc: pro5,
         title: "DataFilter",
