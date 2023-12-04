@@ -37,7 +37,7 @@ const Formc = () => {
               <h4>
                 <FaMailBulk size={20} style={{ color: '#fff', marginRight: '2rem', cursor: 'pointer' }} />
                 <div>
-                  <p style={{ cursor: 'pointer' }} >dineshbellamkonda@icloud.com</p>
+                  <p style={{ cursor: 'pointer' }} >dineshchowdary326@gmail.com</p>
                 </div>
               </h4>
             </th>
