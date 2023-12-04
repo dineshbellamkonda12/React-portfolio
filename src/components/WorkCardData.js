@@ -6,6 +6,7 @@ import pro8 from '../assets/ObjectDetection.png';
 import pro9 from '../assets/weatherapp.png';
 import pro10 from '../assets/reacticongame.png';
 import pro11 from '../assets/rainfallprediction.png';
+import pro12 from '../assets/HeartDisease.png';
 
 
 const ProjectCardData = [
@@ -63,6 +64,13 @@ const ProjectCardData = [
         title: "AA Cloud Solutions",
         text: "The application was developed utilizing HTML 5, CSS 3, React and WordPress. Integrated HubSpot Plugin for chat facility and Used Formintor Plugin for Forms",
         view: "https://aacloudsolutions.co.uk/",
+    },
+
+    {
+        imgsrc: pro12,
+        title: "Heart Disease Prediction using Machine Learning",
+        text: "This application uses machine learning models, including K-Nearest Neighbour, Random Forest, Gradient Boosting, and Logistic Regression, to detect and predict heart disease.",
+        view: "https://github.com/dineshbellamkonda12/Heart-Disease-Detection-and-Prediction.git",
     },
 
 ]
