@@ -9,7 +9,7 @@ const Formc = () => {
 
   const sendEmail = () => {
     // Replace this email address with your desired email address
-    window.location.href = 'mailto:dineshbellamkonda@icloud.com';
+    window.location.href = 'mailto:dineshchowdary326@gmail.com';
   };
 
   const initiatePhoneCall = () => {
