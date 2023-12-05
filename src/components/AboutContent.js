@@ -1,55 +1,91 @@
 import './AboutContentStyles.css'
 import { Link } from 'react-router-dom'
-import react1 from '../assets/react1.jpg'
-import react2 from '../assets/react2.jpg'
+import htmllogo from '../assets/htmllogo.png'
+import css3 from '../assets/icons8-css-logo-96.png'
+import bootstrap1 from '../assets/icons8-bootstrap-logo-96.png'
+import JS1 from '../assets/icons8-javascript-96.png'
+import jquery1 from '../assets/icons8-jquery-50.png'
+import reactlogo from '../assets/icons8-react-96.png'
+import typescriptlogo from '../assets/icons8-typescript-96.png'
+import javalogo from '../assets/icons8-java-logo-96.png'
+import pythonlogo from '../assets/icons8-python-96.png'
+import djangologo from '../assets/icons8-django-96.png'
+import restapilogo from '../assets/icons8-rest-api-96.png'
+import mysqllogo from '../assets/icons8-my-sql-96.png'
+import azurelogo from '../assets/icons8-azure-96.png'
+import githublogo from '../assets/icons8-github-96.png'
+import bitbucklogo from '../assets/icons8-bitbucket-96.png'
 
 import React from 'react'
 
 const AboutContent = () => {
+
   return (
     <div className='about'>
-        <div className='right'>
-            <div className='img-container'>
-                <div className='img-stack top'>
-                    <img src={react1} className='img' alt='true'/>
-                </div>
-                <div className='img-stack bottom'>
-                    <img src={react2} className='img' alt='true'/>
-                </div>
-            </div>
-        </div>
-
-
         <div className='left'>
            <h1>My Skills</h1> <br /> <br />
-           <div className='ta'>
-                <table>
-                    <tr>
-                        <th>Frontend</th>
-                        <th>Backend</th>
-                        <th>Cloud Environment</th>
-                        <th>Content Management System</th>
-                        <th>Software Methadology</th>
-                        <th>Project Management</th>
-                        <th>Version Control</th>
-                        <th>IDE</th>
-                        <th>Operating Systems</th>
-                        <th>Additional Skills</th>
-                    </tr>
-                    <tr>
-                        <td>Object Oriented Programming, HTML 5, CSS 3, Bootstrap, JavaScript (ES6), TypeScript, jQuery, React JS and Redux</td>
-                        <td>Python, Django, Django migrations, Django REST Framework and MySQL</td>
-                        <td>Azure Devops</td>
-                        <td>Wordpress</td>
-                        <td>Agile (Scrum)</td>
-                        <td>Jira Service Desk, HP Service Manager</td>
-                        <td>Git Hub, Bit Bucket</td>
-                        <td>SQL Developer, Visual Studio Code, Atom, Sublime Text, Eclipse, PyCharm</td>
-                        <td>Windows, Linux, Unix</td>
-                        <td>MuleSoft Anypoint Studio, MuleSoft Anypoint platform, MuleSoft Cloudhub, JSON and REST APIs</td>
-                    </tr>
-                </table>
+        <div className='ta'>
+             <div class="item">
+                <img src={htmllogo} alt='htmllogo'/>
+                <div class="tooltiptext">HTML 5</div>
+             </div>
+            <div class="item">
+                <img src={css3} alt='csslogo'/>
+                <div class="tooltiptext">CSS 3</div>
             </div>
+            <div class="item">
+                <img src={bootstrap1} alt='bootstraplogo'/>
+                <div class="tooltiptext">Bootstrap</div>
+            </div>
+            <div class="item">
+                <img src={JS1} alt='javascriptlogo'/>
+                <div class="tooltiptext">JavaScript(ES6)</div>
+            </div>
+            <div class="item">
+                <img src={jquery1} alt='jquery1' />
+                <div class="tooltiptext">JQuery</div>
+            </div>
+            <div class="item">
+                <img src={reactlogo} alt='reactlogo'/>
+                <div class="tooltiptext">React JS</div>
+            </div>
+            <div class="item">
+                <img src={typescriptlogo} alt='typescriptlogo'/>
+                <div class="tooltiptext">TypeScript</div>
+            </div>
+            <div class="item">
+                <img src={javalogo} alt='javalogo'/>
+                <div class="tooltiptext">Java</div>
+            </div>
+            <div class="item">
+                <img src={pythonlogo} alt='pythonlogo'/>
+                <div class="tooltiptext">Python</div>
+            </div>
+            <div class="item">
+                <img src={djangologo} alt='djangologo'/>
+                <div class="tooltiptext">Django</div>
+            </div>
+            <div class="item">
+                <img src={restapilogo} alt='restapilogo'/>
+                <div class="tooltiptext">Django Rest API</div>
+            </div>
+            <div class="item">
+                <img src={mysqllogo} alt='mysqllogo'/>
+                <div class="tooltiptext">My SQL</div>
+            </div>
+            <div class="item">
+                <img src={azurelogo} alt='azurelogo'/>
+                <div class="tooltiptext">Azure Devops</div>
+            </div>
+            <div class="item">
+                <img src={githublogo} alt='githublogo'/>
+                <div class="tooltiptext">GitHub</div>
+            </div>
+            <div class="item">
+                <img src={bitbucklogo} alt='bitbucklogo'/>
+                <div class="tooltiptext">Bit Bucket</div>
+            </div>
+        </div>
             <br /> <br /> <br /> <br /> 
             <h1>Work Experience</h1> <br /> <br /> 
 
@@ -153,6 +189,8 @@ const AboutContent = () => {
                     <tr>
                         <th>Building React and Django Apps <a style={{color: 'yellow'}} href='https://www.linkedin.com/learning/certificates/da6b3b9c101e54a0085f968c608a1ea9e7e43e8993448efc3fd7b4158e0862e9' target='_blank' rel="noreferrer" >  (Credential)</a></th>
                         <th>React JS Essential Training <a style={{color: 'yellow'}} href='https://www.linkedin.com/learning/certificates/2e7cbc6dd4f8ce3004a88d3932b64afdc60739b6bcfa3a80c2c0978ae8cdca8e' target='_blank' rel="noreferrer" > (Credential)</a></th>
+                        <th>React: Using TypeScript <a style={{color: 'yellow'}} href='https://www.linkedin.com/learning/certificates/8f6b272a2df36d8a55cce59eb3cd910e2ef24b5c4c85625fd79861c6c3e1b05e' target='_blank' rel="noreferrer" > (Credential)</a></th>
+                        <th>Python <a style={{color: 'yellow'}} href='https://www.udemy.com/certificate/UC-44208a8f-6b9b-447b-9706-e92cde604124/' target='_blank' rel="noreferrer" > (Credential)</a></th>
                         <th>MuleSoft Certified Developer: Level 1 (Mule 4)</th>
                     </tr>
                 </table>
@@ -175,12 +213,9 @@ const AboutContent = () => {
             </div>
             <br /> <br /> <br /> <br />
 
+            <h1>References</h1> <br /> <br />
             <div className='ab'>
                 <table>
-                    <tr>
-                        <th>References</th>
-                    </tr>
-
                     <tr>
                         <td>Available Upon Request</td>
                     </tr>

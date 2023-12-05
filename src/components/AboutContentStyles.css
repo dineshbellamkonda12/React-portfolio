@@ -8,18 +8,74 @@
     height: 100%;
 }
 
-div.ta{
-    overflow-x: auto;
-}
 
 div.ex{
     overflow-x: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 div.ed{
     overflow-x: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
+div.pw{
+    overflow-x: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div.ce{
+    overflow-x: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div.ab{
+    overflow-x: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.ta {
+    display: grid;
+    grid-gap: 10px; /* Gap between grid items */
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .item {
+    background-color: #ddd;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+.item .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.item:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
 
 .about .left{
     text-align: center;
@@ -48,32 +104,15 @@ th, td{
     width: 20%;
 }
 
-.about .right{
-    max-width: 450px;
-}
 
-.right .img-container{
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    position: relative;
-    align-items: center;
-    text-align: center;
-}
+@media (min-width: 768px) {
+    .ta {
+      grid-template-columns: repeat(2, 1fr); /* Two columns on larger screens */
+    }
+  }
 
-.right .img{
-    max-width: 90%;
-    border: 1px solid #333;
-}
-
-.right .top{
-    grid-column: 1 / span 8;
-    grid-row: 1;
-    padding-top: 20%;
-    z-index: 6;
-}
-
-.right .bottom{
-    grid-column: 4 / -1;
-    grid-row: 1;
-    z-index: 5;
-}
+  @media (min-width: 1024px) {
+    .ta {
+      grid-template-columns: repeat(3, 1fr); /* Three columns on even larger screens */
+    }
+  }
