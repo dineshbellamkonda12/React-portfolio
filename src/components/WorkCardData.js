@@ -7,6 +7,7 @@ import pro9 from '../assets/weatherapp.png';
 import pro10 from '../assets/reacticongame.png';
 import pro11 from '../assets/rainfallprediction.png';
 import pro12 from '../assets/HeartDisease.png';
+import pro13 from '../assets/spending_monitor.png';
 
 
 const ProjectCardData = [
@@ -32,10 +33,10 @@ const ProjectCardData = [
     },
 
     {
-        imgsrc: pro7,
-        title: "My Portfolio",
-        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Azure Devops utilizing CI/CD pipelines",
-        view: "https://github.com/dineshbellamkonda12/React-portfolio.git",
+        imgsrc: pro13,
+        title: "Spending Monitor",
+        text: "The application was developed utilizing HTML 5, CSS 3, React Hooks and Context API, It is used to keep track of your spending expenses",
+        view: "https://github.com/dineshbellamkonda12/Spending-Monitor.git",
     },
 
     {
@@ -57,6 +58,13 @@ const ProjectCardData = [
         title: "Game Play with React Icon",
         text: "'Game Play with React Icon' is an app where you can interact and play with react icon. This app was developed using HTML 5, CSS 3, JavaScript and React JS",
         view: "https://github.com/dineshbellamkonda12/React-Icon-Mini-Project.git",
+    },
+
+    {
+        imgsrc: pro7,
+        title: "My Portfolio",
+        text: "This website is designed and developed using HTML 5, CSS 3, JavaScript(ES6) and React JS. This Application was deployed in Azure Devops utilizing CI/CD pipelines",
+        view: "https://github.com/dineshbellamkonda12/React-portfolio.git",
     },
 
     {
