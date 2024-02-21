@@ -8,6 +8,7 @@ import pro10 from '../assets/reacticongame.png';
 import pro11 from '../assets/rainfallprediction.png';
 import pro12 from '../assets/HeartDisease.png';
 import pro13 from '../assets/spending_monitor.png';
+import pro14 from '../assets/MovieSystem.png'
 
 
 const ProjectCardData = [
@@ -79,6 +80,13 @@ const ProjectCardData = [
         title: "Heart Disease Prediction using Machine Learning",
         text: "This application uses machine learning models, including K-Nearest Neighbour, Random Forest, Gradient Boosting, and Logistic Regression, to detect and predict heart disease.",
         view: "https://github.com/dineshbellamkonda12/Heart-Disease-Detection-and-Prediction.git",
+    },
+
+    {
+        imgsrc: pro14,
+        title: "Movie Tracking System",
+        text: "Movie Tracking System helps users to search the movie database and filter results based on genre preferences. Technologies used are React (version 18.2.0) BootStrap (Version 5.3.2) npm (Node package manager) Git",
+        view: "https://github.com/dineshbellamkonda12/Movie-Tracking-System.git",
     },
 
 ]
