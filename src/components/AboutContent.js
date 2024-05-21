@@ -12,7 +12,7 @@ import pythonlogo from '../assets/icons8-python-96.png'
 import djangologo from '../assets/icons8-django-96.png'
 import restapilogo from '../assets/icons8-rest-api-96.png'
 import mysqllogo from '../assets/icons8-my-sql-96.png'
-import azurelogo from '../assets/icons8-azure-96.png'
+import awslogo from '../assets/awslogo.png'
 import githublogo from '../assets/icons8-github-96.png'
 import bitbucklogo from '../assets/icons8-bitbucket-96.png'
 
@@ -74,8 +74,8 @@ const AboutContent = () => {
                 <div class="tooltiptext">My SQL</div>
             </div>
             <div class="item">
-                <img src={azurelogo} alt='azurelogo'/>
-                <div class="tooltiptext">Azure Devops</div>
+                <img src={awslogo} alt='azurelogo'/>
+                <div class="tooltiptext">Amazon Web Services</div>
             </div>
             <div class="item">
                 <img src={githublogo} alt='githublogo'/>
