@@ -13,7 +13,7 @@ export const HeroImg = () => {
         </div>
         <div className="content">
             <h1>Full Stack Web Developer</h1>
-            <p style={{ fontSize: '18px'}}>I'm Sai Dinesh Bellamkonda, a goal-oriented Full Stack Developer. I specialize in crafting exceptional web solutions, leveraging technologies such as HTML5, CSS3, BootStrap, JavaScript, JQuery, TypeScript, React, Redux, Python, Django, and My SQL. I thrive in dynamic environments, utilizing Azure DevOps for deployments and Agile methodologies for efficient project management. Explore my portfolio to see my latest work, and feel free to connect with me for potential collaborations. Thank you for visiting!</p>
+            <p style={{ fontSize: '18px'}}>I'm Sai Dinesh Bellamkonda, a goal-oriented Full Stack Developer. I specialize in crafting exceptional web solutions, leveraging technologies such as HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Redux, Python, Django, and My SQL. I thrive in dynamic environments, utilizing AWS for deployments and Agile methodologies for efficient project management. Explore my portfolio to see my latest work, and feel free to connect with me for potential collaborations. Thank you for visiting!</p>
             <br/><br/>
           <div>
               <Link to="/Project" className="btn">Projects</Link>
